@@ -2,6 +2,9 @@
   <div class="col">
       <div class="card border-0 shadow-sm bg-white">
           <div class="card-body p-5">
+              <!-- Divider -->
+              <hr class="my-4">
+              
               <div class="row">
                   <div class="col">
                       <h3 class="card-title">My Presentation</h3>
@@ -10,8 +13,8 @@
                       </p>
                       <div class="youtube-video">
                           <iframe 
-                              width="800" 
-                              height="650" 
+                              width="1000" 
+                              height="700" 
                               src="{{ site.data.profile.youtube_video }}" 
                               title="YouTube video player" 
                               frameborder="0" 
@@ -28,7 +31,7 @@
 <style>
 .youtube-video {
   text-align: center;
-  margin: 0px 0;
+  margin: 20px 0;
 }
 
 .youtube-video iframe {
@@ -46,5 +49,11 @@
   font-size: 1rem;
   margin-bottom: 1.5rem;
   color: #6c757d;
+}
+
+hr.my-4 {
+  border: 0;
+  border-top: 2px solid #dee2e6;
+  margin: 1.5rem 0;
 }
 </style>
