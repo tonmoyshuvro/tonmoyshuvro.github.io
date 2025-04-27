@@ -1,26 +1,28 @@
-<div class="row">
-  <div class="col">
-      <div class="card border-0 shadow-sm bg-white">
-          <div class="card-body p-5">
-              <!-- Divider -->
-              <hr class="my-4">
-              
-              <div class="row">
-                  <div class="col">
-                      <h3 class="card-title">My Presentation</h3>
-                      <p class="card-text">
-                          This is a brief description of my presentation. Watch the video below to learn more about my work and ideas.
-                      </p>
-                      <div class="youtube-video">
-                          <iframe 
-                              width="1000" 
-                              height="700" 
-                              src="{{ site.data.profile.youtube_video }}" 
-                              title="YouTube video player" 
-                              frameborder="0" 
-                              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                              allowfullscreen>
-                          </iframe>
+<div class="presentation-wrapper mt-5">
+  <div class="row">
+      <div class="col">
+          <div class="card border-0 shadow-sm bg-white">
+              <div class="card-body p-5">
+                  <!-- Divider -->
+                  <hr class="my-4">
+                  
+                  <div class="row">
+                      <div class="col">
+                          <h3 class="card-title">My Presentation</h3>
+                          <p class="card-text">
+                              This is a brief description of my presentation. Watch the video below to learn more about my work and ideas.
+                          </p>
+                          <div class="youtube-video">
+                              <iframe 
+                                  width="1000" 
+                                  height="700" 
+                                  src="{{ site.data.profile.youtube_video }}" 
+                                  title="YouTube video player" 
+                                  frameborder="0" 
+                                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                                  allowfullscreen>
+                              </iframe>
+                          </div>
                       </div>
                   </div>
               </div>
@@ -29,6 +31,11 @@
   </div>
 </div>
 <style>
+/* Add margin to separate the presentation card */
+.presentation-wrapper {
+  margin-top: 3rem; /* Adds space above the presentation card */
+}
+
 .youtube-video {
   text-align: center;
   margin: 20px 0;
