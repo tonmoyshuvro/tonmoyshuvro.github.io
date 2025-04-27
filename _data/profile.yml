@@ -22,17 +22,26 @@ twitter: tonmoyshuvro  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A passionate <strong>Computer Science</strong> student <em>(and former Lecturer)</em> with research interests spanning 
+    A passionate Computer Science student <strong>(and former Lecturer)</strong> with research interests spanning 
     <em>Machine Learning (ML), Natural Language Processing (NLP), Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), 
     Human-Computer Interaction (HCI), Computer Vision, Digital Image Processing, and Intelligent Systems</em>. 
     Driven by the goal of applying advanced technologies to create meaningful impact, I am particularly interested in solving real-world challenges across diverse fields, including 
     <strong>medicine, social innovation, biological research, and physics</strong>.
   </p>
   <p>
-    I completed my undergraduate studies in <strong>Computer Science and Engineering</strong> at <strong>Varendra University</strong>, securing 1<sup>st</sup> position with an exemplary <strong>CGPA of 3.98/4.00</strong>. 
+    I completed my undergraduate studies in Computer Science and Engineering at Varendra University, securing 
+    <strong>1<sup>st</sup> position</strong> with an exemplary CGPA of 3.98/4.00. 
     Following my graduation, I served as a <strong>Lecturer</strong> at my university, teaching core Computer Science courses such as 
     <em>Artificial Intelligence Lab</em>, <em>Structured Programming Language</em>, <em>Software Engineering</em>, 
+    <em>Computer Graphics</em>, and <em>Operating Systems and Systems Programming</em>.
   </p>
+
+  <p>
+    Currently, I am working as a <strong>Senior Visualizer</strong> at the Ed-Tech company Programming Hero, where I blend visual storytelling 
+    with functional design to make programming education more accessible and engaging. 
+    This rare combination of technical expertise and creative visualization empowers me to approach research and design with both analytical precision and aesthetic insight.
+  </p>
+
 
 portrait_url: /assets/images/photos/profile.jpg
 education:
