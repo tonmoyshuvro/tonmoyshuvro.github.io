@@ -39,7 +39,7 @@ education:
 - name: Rajshahi University of Engineering & Technology(RUET)
   logo: /assets/images/badges/RUET.png
   position: >- 
-    Department of Computer Science and Engineering <br/>
+    Department of Computer Science and Engineering
     M.Sc. Student
   date: Mar. 2024 - present
 - name: Varendra University
@@ -50,13 +50,13 @@ education:
 
 experience:
 - name: Programming Hero
-  logo: /assets/images/badges/VU.png 
-  position: >- 
-    <br> Senior Visualizer <br/>
+  logo: /assets/images/badges/PH.png 
+  position: Senior Visualizer
   date: Aug. 2024 - present
 
 - name: Varendra University
   logo: /assets/images/badges/VU.png 
   position: >- 
-    <br> Lecturer <br/>
+     Lecturer <br/>
+     Department of Computer Science and Engineering
   date: Mar. 2023 - Jul. 2024
