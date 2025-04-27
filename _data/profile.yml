@@ -48,10 +48,14 @@ education:
   date: Sep. 2018 - Oct. 2022
 
 
-awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+education:
+- name: Rajshahi University of Engineering & Technology(RUET)
+  logo: /assets/images/badges/RUET.png
+  position: >- 
+    Department of Computer Science and Engineering <br/>
+    M.Sc. Student
+  date: Mar. 2024 - present
+- name: Varendra University
+  logo: /assets/images/badges/VU.png
+  position: B.Sc. in Computer Science and Engineering
+  date: Sep. 2018 - Oct. 2022
