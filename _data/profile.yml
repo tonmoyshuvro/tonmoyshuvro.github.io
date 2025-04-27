@@ -24,20 +24,20 @@ short_bio: >-
   <p>
     A passionate Computer Science student <strong>(and former Lecturer)</strong> with research interests spanning 
     <em>Machine Learning (ML), Natural Language Processing (NLP), Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), 
-    Human-Computer Interaction (HCI), and Computer Vision.</em>. 
+    Human-Computer Interaction (HCI), and Computer Vision.</em> 
     Driven by the goal of applying advanced technologies to create meaningful impact, I am particularly interested in solving real-world challenges across diverse fields, including 
     <strong>medicine, social innovation, biological research, and physics</strong>.
   </p>
   <p>
     I completed my undergraduate studies in Computer Science and Engineering at Varendra University, securing 
-    <strong>1<sup>st</sup> position</strong> with an exemplary CGPA of 3.98/4.00. 
+    <strong>1<sup>st</sup> position</strong> with an exemplary <strong>CGPA of 3.98/4.00</strong>. 
     Following my graduation, I served as a <strong>Lecturer</strong> at my university, teaching core Computer Science courses such as 
     <em>Artificial Intelligence Lab</em>, <em>Structured Programming Language</em>, <em>Software Engineering</em>, 
     <em>Computer Graphics</em>, and <em>Operating Systems and Systems Programming</em>.
   </p>
 
   <p>
-    Currently, I am working as a <strong>Senior Visualizer</strong> at the Ed-Tech company Programming Hero, where I blend visual storytelling 
+    Currently, I am working as a <strong>Senior Visualizer</strong> at the Ed-Tech company <a href="https://programming-hero.com">Programming Hero</a>, where I blend visual storytelling 
     with functional design to make programming education more accessible and engaging. 
     This rare combination of technical expertise and creative visualization empowers me to approach research and design with both analytical precision and aesthetic insight.
   </p>
@@ -46,11 +46,6 @@ short_bio: >-
   My current research is centered around contextual analysis in NLP using Large Language Models (LLMs) to extract meaningful insights from vast textual corpora. 
   I have actively worked on integrating Retrieval-Augmented Generation (RAG) techniques and vector search methods to enhance the retrieval and semantic understanding capabilities of LLMs, 
   particularly for large-scale knowledge bases and specialized domains such as software engineering, social media analysis (tweets), and review analysis.
-  </p>
-
-  <p>
-    Notably, my research experience spans a broad range of interdisciplinary projects, from applying Vision Transformers for galaxy morphology classification to conducting user-centric evaluations of mobile financial applications. 
-    These projects demonstrate my commitment to bridging technical innovation with real-world usability through creativity.
   </p>
 
   <p>
