@@ -1,6 +1,8 @@
 <nav class="navbar navbar-expand-sm navbar-light bg-light fixed-top mb-5 shadow-sm">
     <div class="{% if page.container_class %}{{ page.container_class }}{% else %}container-lg{% endif %}">
-        <a class="navbar-brand"><strong>{{site.data.profile.navbar_name}}</strong></a>
+        <a class="navbar-brand" href="{{ site.baseurl | prepend: site.url }}">
+            <img src="/assets/images/badges/tsk..png" alt="Tonmoy Sarkar Logo" style="height: 40px;">
+          </a>
         <button class="navbar-toggler" style="font-size: 1em; padding: 0.5em;" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <i class="fas fa-map"></i> Menu
         </button>
@@ -16,3 +18,10 @@
         </div>
     </div>
 </nav>
+
+<style>
+.navbar-brand img {
+  max-height: 40px; /* Adjust the height as needed */
+  width: auto; /* Maintain aspect ratio */
+}
+</style>
