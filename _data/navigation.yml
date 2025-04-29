@@ -5,5 +5,5 @@ pages:
   url: /
 - name: Research Projects
   url: /research-projects
-- name: Showcase
-  url: /showcase
+- #name: Showcase
+  #url: /showcase
