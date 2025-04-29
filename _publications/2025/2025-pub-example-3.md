@@ -1,11 +1,11 @@
 ---
-title:          "LLM-Enhanced Topic Modeling of Twitter Data: A Case Study of Elon Musk "
+title:          "LLM-Enhanced Topic Modeling of Twitter Data: A Case Study of Elon Musk"
 date:           2025-04-10 00:01:00 +0800
 selected:       true
 pub:            "<strong>Tools: </strong> BERTopic, Llama 3"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+#pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 #pub_date:       "2025"
 
 abstract: >-
