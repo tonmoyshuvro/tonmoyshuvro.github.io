@@ -13,15 +13,15 @@
                             for study support, key insight extraction, and AI-assisted answer grading. Additionally, it incorporates <strong>RAG-based</strong> query answering, made possible through the integration of the Google Generative AI SDK and a robust vector database.
                           </p>
                           <div class="youtube-video">
-                              <iframe 
-                                  width="100%" 
-                                  height="315" 
-                                  src="{{ site.data.profile.youtube_video }}" 
-                                  title="YouTube video player" 
-                                  frameborder="0" 
-                                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                                  allowfullscreen>
-                              </iframe>
+                              <div class="video-wrapper">
+                                  <iframe 
+                                      src="{{ site.data.profile.youtube_video }}" 
+                                      title="YouTube video player" 
+                                      frameborder="0" 
+                                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                                      allowfullscreen>
+                                  </iframe>
+                              </div>
                           </div>
                       </div>
                   </div>
@@ -41,9 +41,19 @@
   margin: 20px 0;
 }
 
-.youtube-video iframe {
-  max-width: 100%;
-  height: auto; /* Automatically adjusts height based on width */
+/* Responsive video wrapper to maintain aspect ratio */
+.video-wrapper {
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 = 0.5625) */
+}
+
+.video-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 .card-title {
@@ -66,10 +76,6 @@
 
   .card-text {
     font-size: 0.9rem; /* Slightly smaller text font size */
-  }
-
-  .youtube-video iframe {
-    height: 250px; /* Reduce height for smaller screens */
   }
 }
 </style>
