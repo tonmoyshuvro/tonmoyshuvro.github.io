@@ -18,7 +18,7 @@ authors:
   - Ipshita Raha
   - Sushmit Jahan
   - Suraiya Jabin
-  - Tonmoy Sarkar
+  - Tonmoy Sarkar*
 links:
   Manuscript: https://tonmoyshuvro.github.io/assets/docs/Manuscript_Draft_(JSC-2024-0136).pdf
 ---
