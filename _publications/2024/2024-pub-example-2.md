@@ -2,7 +2,7 @@
 title:          "Evaluating User Perceptions to Identify User-Friendly Mobile Financial Apps in Bangladesh: A Case Study"
 date:           2024-9-16 00:01:00 +0800
 selected:       true
-#pub:            "<strong>Tools: </strong> vit-base-patch16-224"
+pub:            "<strong>Tools: </strong> In Review"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-info">Journal Article</span>'
